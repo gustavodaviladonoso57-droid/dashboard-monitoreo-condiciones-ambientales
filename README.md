@@ -44,19 +44,19 @@ acreditadas ante ONAC.
 ## Capturas del Dashboard
 
 ### Tendencias de Temperatura y Humedad
-![Tendencias](imagenes/tendencias.png)
+![Tendencias](PANEL%201.png)
 
 ### Cumplimiento Ambiental Parametrizado
-![Cumplimiento](imagenes/cumplimiento.png)
+![Cumplimiento](PANEL%202.png)
 
 ### Resumen con Intervalos de Confianza
-![Resumen](imagenes/resumen.png)
+![Resumen](PANEL%203.png)
 
 ### Mapa de Clusters por Sensor
-![Clusters](imagenes/clusters.png)
+![Clusters](PANEL%204.png)
 
 ### Página de Ayuda
-![Ayuda](imagenes/ayuda.png)
+![Ayuda](PANEL%205.png)
 
 ## Archivo .pbix
 El archivo .pbix está disponible bajo solicitud.
